@@ -1,7 +1,6 @@
-# LangGraph
-.langgraph_api/
+.venv/
+.env
 
-# venv
+__pycache__/
 
-.venv
-/venv
+data/chroma/
